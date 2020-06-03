@@ -1,0 +1,6 @@
+[submodule "金庸"]
+	path = 金庸
+	url = git@github.com:weiyinfu/JinYong.git
+[submodule "毛泽东文集"]
+	path = 毛泽东文集
+	url = git@github.com:weiyinfu/MaoZeDongAnthology.git
