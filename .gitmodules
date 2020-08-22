@@ -4,3 +4,6 @@
 [submodule "毛泽东文集"]
 	path = 毛泽东文集
 	url = git@github.com:weiyinfu/MaoZeDongAnthology.git
+[submodule "四大名著"]
+	path = 四大名著
+	url = git@github.com:weiyinfu/SiDaMingZhu.git
