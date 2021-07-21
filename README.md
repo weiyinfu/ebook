@@ -16,3 +16,9 @@
 * 网络小说
 * 茅盾文学奖
 * 古书
+
+# 一键下载
+```plain
+git submodule update --init --recursive
+```
+

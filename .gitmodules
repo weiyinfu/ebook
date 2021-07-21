@@ -7,3 +7,6 @@
 [submodule "四大名著"]
 	path = 四大名著
 	url = git@github.com:weiyinfu/SiDaMingZhu.git
+[submodule "古文"]
+	path = 古文
+	url = git@github.com:weiyinfu/GuWen.git
